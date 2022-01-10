@@ -1,0 +1,6 @@
+monolog:
+    channels: [ 'ReportManager' ]
+    handlers:
+        sentry:
+            type: service
+            id: Sentry\Monolog\Handler

@@ -1,0 +1,6 @@
+Izveidot mājas bibliotēkas aplikāciju, kas atļauj lietotājam saglabāt grāmatu – kā objektu    
+un autoru – kā citu neatkarīgu objektu un atļaut tos savstarpēji sasaistīt.    
+Principā gribu redzēt, kā risināsi relācijas – galvenais, lai datu bāzē tie glabājas atsevišķās tabulās,    
+bet aplikācijas sarakstā parādās saistīti.   
+Aplikāciju vari taisīt kādā platformā vien vēlies.   
+Izejas kodu vari piegādāt caur GitHub.
